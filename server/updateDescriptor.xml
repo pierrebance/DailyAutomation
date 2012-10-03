@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update xmlns="http://ns.adobe.com/air/framework/update/description/2.5">
+    <versionNumber>1.0.0</versionNumber>
+    <url>http://local.pierre.dev.dailymotion.com/DailyAutomation/DailyAutomation_1_0_0.air</url>
+    <description><![CDATA[First version]]></description>
+</update>

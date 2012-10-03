@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+	<baseUrl>http://local.pierre.dev.dailymotion.com/DailyAutomation/</baseUrl>
+	<prefixPackage>package_v</prefixPackage>
+	<extensionPackage>.zip</extensionPackage>
+	<checkPeriodInSeconds>300</checkPeriodInSeconds>
+	<phpScript>ListPackages.php</phpScript>
+    <urlUpdate>http://local.pierre.dev.dailymotion.com/DailyAutomation/updateDescriptor.xml</urlUpdate>
+    <delayUpdate>0.0104</delayUpdate>
+</config>
